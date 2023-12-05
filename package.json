@@ -1,0 +1,19 @@
+{
+  "name": "rtgen",
+  "version": "0.0.19",
+  "description": "This is a package for quickly creating React components",
+  "main": "index.js",
+  "scripts": {
+    "rc": "node index.js"
+  },
+  "author": "Sinzxc and TimurAbdur",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "keywords": [
+    "react",
+    "template",
+    "react-template"
+  ]
+}
